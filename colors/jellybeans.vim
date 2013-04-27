@@ -549,3 +549,11 @@ delf s:grey_color
 delf s:grey_level
 delf s:grey_number
 " }}}
+
+" Customized settings {{{
+ hi Normal ctermbg=none
+ hi NonText ctermbg=none
+ hi LineNr ctermbg=none
+ hi htmlH1 ctermfg=15
+ hi clear SignColumn
+" }}}
